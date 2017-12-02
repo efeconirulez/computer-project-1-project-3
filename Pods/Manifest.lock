@@ -1,0 +1,36 @@
+PODS:
+  - MBCircularProgressBar (0.3.5)
+  - SwifterSwift (4.1.0):
+    - SwifterSwift/AppKit (= 4.1.0)
+    - SwifterSwift/CoreGraphics (= 4.1.0)
+    - SwifterSwift/CoreLocation (= 4.1.0)
+    - SwifterSwift/Foundation (= 4.1.0)
+    - SwifterSwift/SwiftStdlib (= 4.1.0)
+    - SwifterSwift/UIKit (= 4.1.0)
+  - SwifterSwift/AppKit (4.1.0)
+  - SwifterSwift/CoreGraphics (4.1.0)
+  - SwifterSwift/CoreLocation (4.1.0)
+  - SwifterSwift/Foundation (4.1.0)
+  - SwifterSwift/SwiftStdlib (4.1.0)
+  - SwifterSwift/UIKit (4.1.0)
+
+DEPENDENCIES:
+  - MBCircularProgressBar
+  - SwifterSwift (from `https://github.com/SwifterSwift/SwifterSwift.git`)
+
+EXTERNAL SOURCES:
+  SwifterSwift:
+    :git: https://github.com/SwifterSwift/SwifterSwift.git
+
+CHECKOUT OPTIONS:
+  SwifterSwift:
+    :commit: ae4d8387c428cb573da4a8dde26aa2357a6dc6f7
+    :git: https://github.com/SwifterSwift/SwifterSwift.git
+
+SPEC CHECKSUMS:
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+  SwifterSwift: da6ff23523db72b1d386cff88c6cfcc0ecb67d22
+
+PODFILE CHECKSUM: c858d157f2bc13a45a9bd105d36cff9776362fba
+
+COCOAPODS: 1.3.1
